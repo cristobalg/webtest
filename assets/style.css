@@ -1,0 +1,27 @@
+.courses {padding : 30px}
+
+.courseslist {background-color: #EEEEEE;
+    padding : 3px;}
+
+.footer {background-color: #002B6E; padding : 50px;}
+
+.menu {background-color: grey;
+    margin-bottom: 20px;}
+
+.menufont {color : white}
+
+.coursetitle::nth-word(1) {
+    color: blue;
+}
+
+.contactform {padding : 30px;}
+p.parsley-success {
+    color: #468847;
+    background-color: #DFF0D8;
+    border: 1px solid #D6E9C6;
+}
+p.parsley-error {
+    color: #B94A48;
+    background-color: #F2DEDE;
+    border: 1px solid #EED3D7;
+}
